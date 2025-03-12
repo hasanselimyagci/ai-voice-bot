@@ -11,10 +11,12 @@ pip install -r requirements.txt
 
 #### Edit the config file
 
-Copy the code from `sample.env` and create a new file called `.env`. Paste in the code and enter your API key you generated in the [Deepgram console](https://console.deepgram.com/).
+Enter your API keys in the .env file.
 
 ```js
 DEEPGRAM_API_KEY=%api_key%
+ELEVENLABS_API_KEY=%api_key%
+OPENAI_API_KEY=%api_key%
 ```
 
 #### Run the application
