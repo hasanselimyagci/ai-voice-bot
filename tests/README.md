@@ -1,0 +1,2 @@
+- Tested a local backend only version of the app, check the folder
+- You can also test the deepgram-sdk running test-deepgram-sdk.py, which is taken from [Deepgram's repo](https://github.com/deepgram-starters/flask-live-transcription)
