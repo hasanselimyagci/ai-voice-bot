@@ -1,0 +1,5 @@
+
+2025-03-10 21:30:11.600521 --- USER: dünyada kaç kıta var
+2025-03-10 21:30:11.600521 --- BOT: Dünyada toplamda 7 kıta vardır: Asya, Afrika, Kuzey Amerika, Güney Amerika, Antarktika, Avrupa ve Avustralya.
+2025-03-10 21:30:31.804300 --- USER: türkiye'nin başkenti neresi
+2025-03-10 21:30:31.804300 --- BOT: Türkiye'nin başkenti Ankara'dır.
