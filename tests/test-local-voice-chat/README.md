@@ -1,0 +1,3 @@
+- vad.py: Silero VAD test script. Using the model, speech probabilities for audio frames gets calculated. When it is over 0.5 (treshold), there is a speech activity.
+- main.py: You can also run the backend locally by running this file. The difference is, silero vad model decides when the user's turn of speech ended (silence), which is based on analysis of recorded input audio.
+- Also in this test environment, prerecorded version of deepgram's speech-to-text model is used. On every voice activity user's input recorded to audio folder, and transcibed with deepgram.
