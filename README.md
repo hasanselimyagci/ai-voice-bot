@@ -30,6 +30,9 @@ You need to run both app.py (port 8000) and app_socketio.py (port 5001). Once ru
 python app.py
 python app_socketio.py
 ```
+### Tests folder
+
+Ther is a local backend only version inside the tests folder. You can run the main.py and test the pipeline. It uses Silero VAD to detect the end of user's turn.
 
 ## Technical Decisions and Challanges
 
